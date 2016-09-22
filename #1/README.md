@@ -28,7 +28,7 @@ Este teste aprensenta somente as informações necessárias para ser executado e
 
 Podem ser utilizadas quaisquer tecnologias para a execução, mas sendo um teste, quanto mais ferramentas e técnicas que demonstrem seu conhecimento, melhor.
 
-*Este não é um teste de design e sim de percepção de padrões e bom senso.*
+**Este não é um teste de design e sim de percepção de padrões e bom senso.*
 
 
 ## Stack Base
