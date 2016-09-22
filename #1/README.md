@@ -1,28 +1,37 @@
 # General Test
 
 Como todos sabemos, a profissão de programador exige um nível elevado de atenção a detalhes e pragmatismo.
-Este teste vai apresentar somente as informações necessárias para ser executado e irá avaliar:
-    Nível de detalhes
-    Tecnologias utilizadas
-    Clean Code
-    Lógica
-    DRY
-    KISS
 
-## Test
+Este teste aprensenta somente as informações necessárias para ser executado e irá avaliar:
 
-![alt text](https://github.com/uhtred/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+- Nível de detalhes
+- Tecnologias utilizadas
+- Clean Code
+- Lógica
+- DRY
+- KISS
+- Usabilidade
+- Acessibilidade
+- Legibilidade
+- Bom senso
+
+
+## Execution
+
+![alt text](https://github.com/uhtred/Front-End-Tests/raw/master/%231/login-form.png "Logo Title Text 1")
 
 1. Codificar a imagem anexada
-2. Criar uma nova tela com base no layout do login contendo:
-    * Lista de itens contendo alguma informação;
-    * Filtros/Busca(Javascript) para esta lista;
-    * Botão de sair do sistema;
+2. Criar uma nova tela com base no layout do login contendo*:
+    * Lista de itens contendo alguma informação
+    * Filtros/Busca(Javascript) para esta lista
+    * Botão de sair do sistema
 
 Podem ser utilizadas quaisquer tecnologias para a execução, mas sendo um teste, quanto mais ferramentas e técnicas que demonstrem seu conhecimento, melhor.
 
+*Este não é um teste de design e sim de percepção de padrões e bom senso.*
 
-## Stack Zup BU Telecom
+
+## Stack Base
     Webpack
     Babel
     Gulp
@@ -41,3 +50,5 @@ Podem ser utilizadas quaisquer tecnologias para a execução, mas sendo um teste
     Enzyme
     Jest
     Protractor
+    RESTful
+    CORS
