@@ -25,6 +25,8 @@ Este teste aprensenta somente as informações necessárias para ser executado e
     * Lista de itens contendo alguma informação
     * Filtros/Busca(Javascript) para esta lista
     * Botão de sair do sistema
+3. Não é necessário fazer o backend, utilize mock.
+4. Serão rodados dois comandos para testar, npm install && npm start
 
 Podem ser utilizadas quaisquer tecnologias para a execução, mas sendo um teste, quanto mais ferramentas e técnicas que demonstrem seu conhecimento, melhor.
 
