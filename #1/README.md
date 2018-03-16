@@ -2,7 +2,7 @@
 
 Como todos sabemos, a profissão de programador exige um nível elevado de atenção a detalhes e pragmatismo.
 
-Este teste aprensenta somente as informações necessárias para ser executado e irá avaliar:
+Este teste apresenta somente as informações necessárias para ser executado e irá avaliar:
 
 - Nível de detalhes
 - Tecnologias utilizadas
@@ -38,6 +38,7 @@ Podem ser utilizadas quaisquer tecnologias para a execução, mas sendo um teste
     Babel
     Gulp
     React
+    React Native
     Mobx
     Redux
     Angular
@@ -54,3 +55,4 @@ Podem ser utilizadas quaisquer tecnologias para a execução, mas sendo um teste
     Protractor
     RESTful
     CORS
+    
